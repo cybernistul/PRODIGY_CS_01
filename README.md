@@ -1,6 +1,6 @@
 Hello, I am Nistul Premod
 
-This is my second internship task at Prodigy InfoTech. I have created a encryption algorithm for users to Encrypt/Decrypt whole messages or words of their choice using Caesar Cipher Algorithm. User has to specify a shift value for encryption or decryption
+This is my first internship task at Prodigy InfoTech. I have created a encryption algorithm for users to Encrypt/Decrypt whole messages or words of their choice using Caesar Cipher Algorithm. User has to specify a shift value for encryption or decryption
 
 
 ### Project: Implement Caesar Cipher
